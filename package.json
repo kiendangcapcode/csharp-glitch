@@ -1,0 +1,21 @@
+{
+  "name": "csharp-on-glitch",
+  "version": "1.0.0",
+  "description": "Run C# on Glitch",
+  "main": "start.sh",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/csharp-on-glitch"
+  },
+  "license": "MIT",
+  "keywords": [
+    "csharp",
+    "glitch"
+  ]
+}
